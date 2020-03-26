@@ -1,6 +1,5 @@
 # TicTacToe
 
----
 
 **Project description:** This is a basic tic tac toe game, which is played in the command line, by compiling and running the java file "main".
 
@@ -15,5 +14,3 @@ javac Main.java
 java Main
 
 ```
-
----
