@@ -2,7 +2,7 @@
 
 ---
 
-[Kozmoz - Space Invaders Game](/sample_page2)
+[Kozmoz - Space Invaders Game](/Kozmoz)
 <img src="https://i.imgur.com/FEw161J.gif?noredirect"/>
 
 ---
