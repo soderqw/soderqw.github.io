@@ -9,7 +9,7 @@ Go to that folder in the terminal, then perform the following commands.
 ```javascript
 javac Main.java
 java Main
-}
+
 ```
 
 ### 2. Enjoy the game!
