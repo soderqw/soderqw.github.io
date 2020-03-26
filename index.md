@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Kozmoz - Classic Game](/sample_page)
+[](/sample_page)
 <img src="https://raw.githubusercontent.com/soderqw/Kozmoz/master/logo.png"/>
 
 ---
