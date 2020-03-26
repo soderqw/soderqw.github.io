@@ -3,11 +3,11 @@
 ---
 
 [Kozmoz - Space Invaders Game](/sample_page2)
-<img src="https://raw.githubusercontent.com/soderqw/Kozmoz/master/logo.png"/>
+<img src="https://i.imgur.com/FEw161J.gif?noredirect"/>
 
 ---
 
-[TicTacToe - Basic Tic Tac Toe Game, played in command line](/sample_page)
+[TicTacToe - Basic Tic Tac Toe Game](/sample_page)
 <img src="https://miro.medium.com/max/2400/1*hVbUfzgUGmaXfQ69U4t1wg.gif "/>
 
 ---
