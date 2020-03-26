@@ -1,8 +1,11 @@
 ## Projects
 
+---
+
 [Kozmoz - Space Invaders Game](/sample_page)
 <img src="https://raw.githubusercontent.com/soderqw/Kozmoz/master/logo.png"/>
 
+---
 
 [TicTacToe - Basic Tic Tac Toe Game, played in command line](/sample_page)
 <img src="https://miro.medium.com/max/2400/1*hVbUfzgUGmaXfQ69U4t1wg.gif "/>
