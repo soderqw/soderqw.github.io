@@ -7,7 +7,7 @@
 
 ---
 
-[TicTacToe - Basic Tic Tac Toe Game, played in command line](/sample_page)
+[TicTacToe - Basic Tic Tac Toe Game, played in command line](/sample_page2)
 <img src="https://miro.medium.com/max/2400/1*hVbUfzgUGmaXfQ69U4t1wg.gif "/>
 
 ---
