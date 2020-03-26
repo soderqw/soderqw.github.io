@@ -4,7 +4,7 @@
 
 ### Projects
 
-[](/sample_page)
+[Kozmoz - Space Invaders Game](/sample_page)
 <img src="https://raw.githubusercontent.com/soderqw/Kozmoz/master/logo.png"/>
 
 ---
